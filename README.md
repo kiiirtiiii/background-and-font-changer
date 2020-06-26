@@ -1,6 +1,6 @@
 # background-and-font-changer
 
-### https://kirtisharma05.github.io/background-font-color-changer/
+### https://kirtisharma05.github.io/background-and-font-changer/
 
 Page gives some buttons to operate the color of the background and font.
 
