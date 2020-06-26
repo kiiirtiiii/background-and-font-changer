@@ -1,4 +1,4 @@
-# background-and-font-color-changer
+# background-and-font-changer
 
 ### https://kirtisharma05.github.io/background-and-font-color-changer/
 
