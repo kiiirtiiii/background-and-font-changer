@@ -1,0 +1,18 @@
+h1 {
+	padding-top: 5%;
+}
+
+#sample-text{
+	margin: 8%;
+	padding: 20px;
+}
+
+.bg-btn{
+	margin: auto;
+	text-align: center;
+	padding: 10px;
+}
+
+.bg-btn button {
+	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+}
